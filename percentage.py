@@ -6,7 +6,7 @@ print (f'percentage = {percentage}')
 print ( )
 percentageTries = 100
 while percentageTries > 50:
-    print (percentageTries*((100-percentage)/100))
+    print (100-(percentageTries*((100-percentage)/100)))
     percentageTries = percentageTries*((100-percentage)/100)
     tries = tries + 1
 print ( )
