@@ -1,4 +1,5 @@
 import sys
 numberGiveVariable = int(sys.argv[1])
-print (numberGiveVariable*3)
+numberGiveVariable2 = int(sys.argv[2])
+print (numberGiveVariable*numberGiveVariable2)
 
