@@ -15,4 +15,4 @@ elif (averageTestScore == 10):
     print (f"You got a perfect score of {averageTestScore}! You are a truly stellar student!")  
 if (averageTestScore> 10):
     print ("Error: Your average test score is more than 10. Please submit your results again.")
-    ")
+    
